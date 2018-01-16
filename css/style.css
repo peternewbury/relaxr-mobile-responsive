@@ -465,7 +465,7 @@ blockquote span {
     font-size: 4.5rem;
   }
 
-  header nav {
+  .main-header nav {
     margin-top: 0;
     clear: both;
   }
